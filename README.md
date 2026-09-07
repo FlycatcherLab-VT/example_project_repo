@@ -8,7 +8,7 @@ Every repo should include a README.txt or README.md that details a short overvie
 - collaborators
 - links to other tools or repositories that were used
 
-Outside of the README, there should be separate folders for each analysis/pipeline that was conducted within the project. **This can vary.** For fieldwork or wetlab procedures, I would recommend a write up in a text document, and any supporting materials necessary for that method. 
+Outside of the README, there should be separate folders for each analysis/pipeline that was conducted within the project. **This can vary.** For fieldwork or wetlab procedures, I would recommend a write up in a text document, and any supporting materials necessary for that method. This is also the place to deposit any organizational or formatting scripts that were used in the project.
 
 I would also include a CSV or XLSX that includes isolate naming conventions and any other important metadata relevant to the sample. **THIS IS IMPORTANT**. In computational biology and bioinformatics, it is important to keep a paper trail that allows 
 data to be recovered or recognized in the event that file names change either during analysis or through user error (both have happened to me). Naming conventions should be short but recognizeable, and if they are abbreviated, extra information can be included in the isolates.csv such as species, population, etc.
